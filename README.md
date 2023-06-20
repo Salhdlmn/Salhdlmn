@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Salih </h1>
 <h3 align="center">A frontend developer from Istanbul</h3>
 
-<div align ="center">
-<img height="150" src="https://camo.githubusercontent.com/a012de9e97834a1adea9eafdb32ddfc169c5fc59b7cea6c82ca34542a8c685f5/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966" data-canonical-src="https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" style="max-width: 100%; display: flex; justify-content: center; " data-target="animated-image.originalImage">
-</div>
 <br>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> As a Frontend Developer, I continue to develop myself and use HTML, CSS, SCSS, JAVASCRIPT, REACT.JS, BOOTSTRAP, REACT-BOOTSTRAP, REDUX, CONTEXT API to create dynamic web pages. At the moment I'm learning TypeScript and React Native.</p>
